@@ -1,4 +1,2 @@
 JAVA_OPTS=-XX:MaxPermSize=256m -Xms1024m -Xmx2048m
 JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk1.8.0_74.jdk/Contents/Home
-JAVA_OPTS=-XX:MaxPermSize=256m -Xms1024m -Xmx2048m
-JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk1.8.0_74.jdk/Contents/Home
